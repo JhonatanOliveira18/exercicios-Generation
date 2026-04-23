@@ -10,7 +10,7 @@ public class Exercicio03 {
 		Scanner e = new Scanner(System.in);
 		
 		// Mensagem inicial
-		System.out.println("======= PROGRAMA DE VERIFICAÇÃO DE DOARES DE SANGUE ========");
+		System.out.println("======= PROGRAMA DE VERIFICAÇÃO DE DOADORES DE SANGUE ========");
 		
 		// Declarando variáveis
 		String nomeDoador;
